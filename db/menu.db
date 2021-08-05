@@ -1,0 +1,30 @@
+<menu>
+
+    <!-- Admin -->
+    <group>
+        <names>
+            <hu>Áttekintés</hu>
+            <en>Overview</en>
+        </names>
+        <access>
+            <role>0</role>
+            <role>1</role>
+        </access>
+        <pages>
+            <page>
+                <names>
+                    <hu>Kezdőlap</hu>
+                    <en>Home</en>
+                </names>
+                <icon>home</icon>
+                <link>home</link>
+                <access>
+                    <role>0</role>
+                    <role>1</role>
+                </access>
+            </page>
+        </pages>
+    </group>
+
+</menu>
+

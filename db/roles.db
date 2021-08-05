@@ -1,0 +1,15 @@
+<roles>
+    <role id="0">
+        <hu>Ügyfél</hu>
+        <gb>Client</gb>
+        <color>text-primary</color>
+        <icon>fas fa-user</icon>
+    </role>
+    <role id="1">
+        <hu>Fejlesztő</hu>
+        <gb>Developer</gb>
+        <color>text-danger</color>
+        <icon>fas fa-code</icon>
+    </role>
+</roles>
+
